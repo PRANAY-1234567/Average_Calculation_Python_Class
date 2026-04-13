@@ -46,6 +46,7 @@ class Numbers:
 
 
 # Main program
+
 obj = Numbers()
 obj.average()
 ```
